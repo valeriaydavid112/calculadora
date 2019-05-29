@@ -2,6 +2,7 @@ var operandoa;
 var operandob;
 var operacion;
 
+//esta funcion inicializa la interfaz de la calculadora//
 function init() {
     var resultado = document.getElementById('resultado');
     var reset = document.getElementById('reset');
